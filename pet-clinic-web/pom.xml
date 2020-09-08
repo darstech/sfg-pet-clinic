@@ -11,10 +11,10 @@
 
     <properties>
         <!-- Web dependencies -->
-        <webjars-bootstrap.version>3.3.6</webjars-bootstrap.version>
-        <webjars-jquery-ui.version>1.11.4</webjars-jquery-ui.version>
-        <webjars-jquery.version>2.2.4</webjars-jquery.version>
-        <wro4j.version>1.8.0</wro4j.version>
+        <webjars-bootstrap.version>3.3.4</webjars-bootstrap.version>
+        <webjars-jquery-ui.version>1.12.1</webjars-jquery-ui.version>
+        <webjars-jquery.version>3.5.1</webjars-jquery.version>
+        <wro4j.version>1.9.0</wro4j.version>
     </properties>
 
     <dependencies>
@@ -107,7 +107,7 @@
                     <dependency>
                         <groupId>org.mockito</groupId>
                         <artifactId>mockito-core</artifactId>
-                        <version>2.23.0</version>
+                        <version>3.5.10</version>
                     </dependency>
                 </dependencies>
             </plugin>
